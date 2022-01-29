@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deveshjoshi101
-- 👀 I’m interested in travelling, coding and cooking
+- 👀 I’m interested in traveling, coding, and cooking.
 - 🌱 I’m currently learning react, MERN/MEAN Stack and cybersecurity
 - 💞️ I’m looking to collaborate on different variety of projects with apps, websites, databases
 - 📫 Reach me via my mail friendevesh@gmail.com
