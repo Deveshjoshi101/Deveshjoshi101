@@ -35,7 +35,7 @@
 - 📄 [Resume](https://drive.google.com/file/d/18mARfL_EnN_YuimSq7F-FuR1kVK-f_0J/view?usp=drivesdk)
 
 <p align="center">
-  <img width="63%" src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deveshjoshi101&theme=vue)" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deveshjoshi101&theme=vue)
   
 </p>
 
