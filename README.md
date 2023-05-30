@@ -8,13 +8,6 @@
 </h1>
   
 ![Snake animation](https://github.com/deveshjoshi101/deveshjoshi101/blob/output/github-contribution-grid-snake.svg)
-  
-<h2 align="center">Github Statistics </h2>
-
-|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
-|-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshjoshi101&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/utkarsh575)|[![deveshjoshi101's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=deveshjoshi101&theme=midnight-purple&hide_border=true)](https://github.com/deveshjoshi101)
-|[![deveshjoshi101's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshjoshi101&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/deveshjoshi101)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/deveshjoshi101/count.svg)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -22,22 +15,22 @@
 - 👀 I’m interested in traveling, coding, and cooking.
 - 🌱 I’m doing projects on Spring Boot, Angular, React and Python.
 - 💞️ I’m looking to collaborate on different variety of projects with applications, websites, databases
-- 📫 Reach me via my mail deveshjoshi101@gmail.com
+- 📫 Reach me via my mail **deveshjoshi101@gmail.com**
+- 👨‍💻 Checkout my [Portfolio](https://deveshjoshi101.github.io)
+- 📄 Please let me know if any opportunity is available, [Resume](https://drive.google.com/file/d/18mARfL_EnN_YuimSq7F-FuR1kVK-f_0J/view?usp=drivesdk)
+
+<h2 align="center">Github Statistics </h2>
+
+|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
+|-----------------------------------|----------------------------------|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshjoshi101&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/utkarsh575)|[![deveshjoshi101's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=deveshjoshi101&theme=midnight-purple&hide_border=true)](https://github.com/deveshjoshi101)
+|[![deveshjoshi101's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshjoshi101&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/deveshjoshi101)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/deveshjoshi101/count.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshjoshi101&label=Profile%20views&color=0e75b6&style=flat" alt="Deveshjoshi101" /> </p>
 
 <p align="left"> <a href="https://github.com/Deveshjoshi101/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deveshjoshi101" alt="deveshjoshi101" /></a> </p>
 
-- 👨‍💻 [Portfolio](https://deveshjoshi101.github.io)
-
-- 📫 Gmail **deveshjoshi101@gmail.com**
-
-- 📄 [Resume](https://drive.google.com/file/d/18mARfL_EnN_YuimSq7F-FuR1kVK-f_0J/view?usp=drivesdk)
-
-<p align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deveshjoshi101&theme=vue)
-  
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
