@@ -35,8 +35,8 @@
 - 📄 [Resume](https://drive.google.com/file/d/18mARfL_EnN_YuimSq7F-FuR1kVK-f_0J/view?usp=drivesdk)
 
 <p align="center">
-  <img width="63%" src="profile-summary-card-output/github/0-profile-details.svg" />
-  <img width="35%" src="profile-summary-card-output/github/4-productive-time.svg" />
+  <img width="63%" src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deveshjoshi101&theme=vue)" />
+  
 </p>
 
 <h3 align="left">Connect with me:</h3>
