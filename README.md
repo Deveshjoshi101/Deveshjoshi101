@@ -4,7 +4,7 @@
   
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Devesh" width="30px">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Designer;Small+time+game+creator.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Designer;Small+Time+Game+Creator.)](https://git.io/typing-svg)
 </h1>
   
 <h2 align="center">Github Statistics </h2>
