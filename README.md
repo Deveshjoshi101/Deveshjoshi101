@@ -7,6 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Designer;Small+Time+Game+Creator.)](https://git.io/typing-svg)
 </h1>
   
+![Snake animation](https://github.com/JeroenKnoops/JeroenKnoops/blob/output/github-contribution-grid-snake.svg)
+  
 <h2 align="center">Github Statistics </h2>
 
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
