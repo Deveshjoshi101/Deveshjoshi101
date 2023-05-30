@@ -9,7 +9,7 @@
   
 ![Snake animation](https://github.com/deveshjoshi101/deveshjoshi101/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">About Me</h3>
 
 - 👋 Connect with me @Deveshjoshi101
 - 👀 I’m interested in traveling, coding, and cooking.
@@ -31,6 +31,8 @@
 <p align="left"> <a href="https://github.com/Deveshjoshi101/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deveshjoshi101" alt="deveshjoshi101" /></a> </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deveshjoshi101&theme=vue)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
