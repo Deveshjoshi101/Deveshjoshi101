@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Designer;Small+Time+Game+Creator.)](https://git.io/typing-svg)
 </h1>
   
-![Snake animation](https://github.com/JeroenKnoops/JeroenKnoops/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/deveshjoshi101/deveshjoshi101/blob/output/github-contribution-grid-snake.svg)
   
 <h2 align="center">Github Statistics </h2>
 
@@ -33,6 +33,11 @@
 - 📫 Gmail **deveshjoshi101@gmail.com**
 
 - 📄 [Resume](https://drive.google.com/file/d/18mARfL_EnN_YuimSq7F-FuR1kVK-f_0J/view?usp=drivesdk)
+
+<p align="center">
+  <img width="63%" src="profile-summary-card-output/github/0-profile-details.svg" />
+  <img width="35%" src="profile-summary-card-output/github/4-productive-time.svg" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
