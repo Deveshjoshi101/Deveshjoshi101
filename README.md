@@ -1,6 +1,20 @@
 ![gitGif](https://user-images.githubusercontent.com/102857782/230227927-1353a263-635c-4437-9b19-30901b3ae87b.gif)
 
-<h1 align="center">Hi 👋, I'm Devesh Joshi</h1>
+<h1 align="center">Hi I'm Devesh Joshi
+  
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Devesh" width="30px">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+FullStack+Developer;A+Passionate+Designer;Small+time+game+creator.)](https://git.io/typing-svg)
+</h1>
+  
+<h2 align="center">Github Statistics </h2>
+
+|💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
+|-----------------------------------|----------------------------------|
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshjoshi101&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/utkarsh575)|[![deveshjoshi101's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=deveshjoshi101&theme=midnight-purple&hide_border=true)](https://github.com/deveshjoshi101)
+|[![deveshjoshi101's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshjoshi101&show_icons=true&theme=ayu-mirage&hide_title=true)](https://github.com/deveshjoshi101)|<h1 >Visits: </h1> ![Visitor Count](https://profile-counter.glitch.me/deveshjoshi101/count.svg)
+
+<h3 align="left">Connect with me:</h3>
 
 - 👋 Connect with me @Deveshjoshi101
 - 👀 I’m interested in traveling, coding, and cooking.
