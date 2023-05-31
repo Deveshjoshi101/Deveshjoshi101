@@ -16,7 +16,7 @@
 - 💞️ I’m looking to collaborate on different variety of projects with applications, websites, databases
 - 🌱 I’ve done projects on Spring Boot, Angular, React and Python.
 - 📫 Reach me via my mail **deveshjoshi101@gmail.com**
-- 👨‍💻 Checkout my **[Portfolio](https://deveshjoshi101.github.io)**
+- 👨‍💻 Checkout my **[Portfolio](https://deveshjoshi101.github.io/deveshjoshi)**
 - 📄 Please let me know if any opportunity is available, **[Resume](https://drive.google.com/file/d/18mARfL_EnN_YuimSq7F-FuR1kVK-f_0J/view?usp=drivesdk)**
 
 <h2 align="center">Github Statistics </h2>
