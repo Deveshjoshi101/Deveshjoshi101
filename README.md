@@ -19,7 +19,7 @@
 - 🌱 I’ve done projects on Spring Boot, Angular, React and Python.
 - 📫 Reach me via my mail **deveshjoshi101@gmail.com**
 - 👨‍💻 Checkout my **[Portfolio](https://deveshjoshi101.github.io/devesh)**
-- 📄 Please let me know if any opportunity is available, **[Resume](https://drive.google.com/file/d/18RlOGRtq0Sc29tqG2gPmoLV2sfqryDD0/view?usp=drivesdk)**
+- 📄 Please let me know if any opportunity is available, **[Resume](https://drive.google.com/file/d/1ZES_YmGWGTCFBSkk8NoS-Wj5D6cg6-YY/view?usp=sharing)**
 
 <h2 align="center">Github Statistics </h2>
 
